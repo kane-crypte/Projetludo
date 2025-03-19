@@ -63,13 +63,13 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.42f1-x86_64\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Script\PlayerPices\RedPlayerPices.cs" />
-    <Compile Include="Assets\Script\PlayerPices\YellowPlayerPices.cs" />
-    <Compile Include="Assets\Script\PlayerPices\BluePlayerPices.cs" />
     <Compile Include="Assets\Script\PathObjectParent.cs" />
-    <Compile Include="Assets\Script\PlayerPices\PlayerPices.cs" />
+    <Compile Include="Assets\Script\PlayerPices\RedPlayerPice.cs" />
+    <Compile Include="Assets\Script\PlayerPices\BluePlayerPice.cs" />
     <Compile Include="Assets\Script\PathPoint.cs" />
-    <Compile Include="Assets\Script\PlayerPices\GreenPlayerPices.cs" />
+    <Compile Include="Assets\Script\PlayerPices\GreenPlayerPice.cs" />
+    <Compile Include="Assets\Script\PlayerPices\YellowPlayerPice.cs" />
+    <Compile Include="Assets\Script\PlayerPices\PlayerPice.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
